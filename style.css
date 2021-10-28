@@ -1,0 +1,44 @@
+.first{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px cadetblue;
+    height: 222px;
+    font-size: 29px;
+    color: rgb(245, 159, 0);
+    font-weight: lighter;
+}
+
+.bleh{
+    float: none;
+    font-size: 22;
+    box-shadow: 5px 5px 5px cornsilk;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#wheeee{
+    color: cornflowerblue;
+    font-size: x-large;
+    border-radius: 20px;
+    font-family: 'Irish Grover', cursive;
+}
+
+canvas{
+    border: 5px solid coral;
+    margin-top: 100px;
+    box-shadow: 5px 5px 5px darksalmon;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: deepskyblue;
+    color: aliceblue;
+    height: 70px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 5;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
